@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\tempgithub\\GithubDemo\\TestProject\\TestProject.csproj": {}
+    "D:\\temp\\TempDemo\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "F:\\tempgithub\\GithubDemo\\TestProject\\TestProject.csproj": {
+    "D:\\temp\\TempDemo\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\tempgithub\\GithubDemo\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "D:\\temp\\TempDemo\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "F:\\tempgithub\\GithubDemo\\TestProject\\TestProject.csproj",
+        "projectPath": "D:\\temp\\TempDemo\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\kazi_\\.nuget\\packages\\",
-        "outputPath": "F:\\tempgithub\\GithubDemo\\TestProject\\obj\\",
+        "outputPath": "D:\\temp\\TempDemo\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kazi_\\AppData\\Roaming\\NuGet\\NuGet.Config",
