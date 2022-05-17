@@ -1,4 +1,4 @@
-[![Continuous Integration and Deployment](https://github.com/kazi-rashid/GithubDemo/actions/workflows/ci-cd.yaml/badge.svg)](https://github.com/kazi-rashid/GithubDemo/actions/workflows/ci-cd.yaml)
+[![CI](https://github.com/kazi-rashid/TempDemo/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/kazi-rashid/TempDemo/actions/workflows/ci-cd.yml)
 # GithubDemo
 Temporary repo
 new branch added 'dev' for development
